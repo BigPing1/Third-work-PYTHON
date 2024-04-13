@@ -1,0 +1,1 @@
+This is my third work in python. I wrote program that finds even and odd number, and outputs all number befor your.
